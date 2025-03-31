@@ -20,7 +20,7 @@ display.print("12:09");
 
 
 }
-.
+
 void loop() {
 
 }
