@@ -14,7 +14,7 @@ void setup()
   lcd.backlight();
   /* It sets the cursor to the first column of the second row. */
   lcd.setCursor(0,1);
-  lcd.print("Byki <3");
+  lcd.print("Napis");
   lcd.setCursor(1,0);
   lcd.print("Temperatura:");
 }
