@@ -102,5 +102,5 @@ lcd.print("-");
 }
 lcd.print(celsius);
 lcd.print(" st. C ");
-delay(1000); //Czeka 1 sekund i odswierza
+delay(1000); //Czeka 1 sekund i odswieza
 }
