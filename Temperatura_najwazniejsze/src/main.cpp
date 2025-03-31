@@ -12,10 +12,10 @@ void setup() {
   display.begin();
   display.setCursor(0, 2);
   display.setTextColor(RED);
-  display.print("Irena Rzeczkowska:");
+  display.print("Witaj:");
   display.setCursor(7, 12);
   display.setTextColor(LIME);
-  display.print("Siema Zuk, co tam??");
+  display.print("Swiecie");
   
 }
 void loop(){
